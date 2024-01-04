@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/tquad/static/css/main.25be99b7.css",
+    "main.js": "/tquad/static/js/main.ee44a30c.js",
+    "static/js/787.a95b19ad.chunk.js": "/tquad/static/js/787.a95b19ad.chunk.js",
+    "static/media/64.jpg": "/tquad/static/media/64.9c69cbc7fae72a6d9c9d.jpg",
+    "static/media/About-UsDesktopheader.jpg": "/tquad/static/media/About-UsDesktopheader.206ce44c07e4c2eaab62.jpg",
+    "static/media/ContactDesktopheader.jpg": "/tquad/static/media/ContactDesktopheader.206ce44c07e4c2eaab62.jpg",
+    "static/media/ServicesDesktopheader.jpg": "/tquad/static/media/ServicesDesktopheader.206ce44c07e4c2eaab62.jpg",
+    "static/media/ProjectsDesktopheader.jpg": "/tquad/static/media/ProjectsDesktopheader.f7f7db05e3587a60312b.jpg",
+    "static/media/66.jpg": "/tquad/static/media/66.be4b6a26144e854b969e.jpg",
+    "static/media/Lato-Light.ttf": "/tquad/static/media/Lato-Light.bd895b1eb9ced18d8ce6.ttf",
+    "static/media/Lato-Regular.ttf": "/tquad/static/media/Lato-Regular.79164ee524feb6583a94.ttf",
+    "static/media/HomeDesktopheader.jpg": "/tquad/static/media/HomeDesktopheader.647ace71e3c3ae7ec7da.jpg",
+    "static/media/62.jpg": "/tquad/static/media/62.3b71891fed365576778b.jpg",
+    "static/media/77.jpg": "/tquad/static/media/77.25e5c1f3a7fa20ae4c21.jpg",
+    "static/media/63.jpg": "/tquad/static/media/63.18e733df731bacbd60a0.jpg",
+    "static/media/75.png": "/tquad/static/media/75.a9174d3354ea2276090b.png",
+    "static/media/78.jpg": "/tquad/static/media/78.25ac45131efc532c50f2.jpg",
+    "static/media/76.png": "/tquad/static/media/76.5976ada968b5ea212b9e.png",
+    "static/media/79.jpg": "/tquad/static/media/79.2302fd1dfbc1cf684ff3.jpg",
+    "static/media/73.png": "/tquad/static/media/73.a2aaba60f2695cb10e1d.png",
+    "static/media/74.png": "/tquad/static/media/74.744737df9f2d083786fd.png",
+    "static/media/menulogo.png": "/tquad/static/media/menulogo.ae4f1218ebfef613940d.png",
+    "index.html": "/tquad/index.html",
+    "static/media/getFetch.cjs": "/tquad/static/media/getFetch.40f37ddea2378391108f.cjs",
+    "main.25be99b7.css.map": "/tquad/static/css/main.25be99b7.css.map",
+    "main.ee44a30c.js.map": "/tquad/static/js/main.ee44a30c.js.map",
+    "787.a95b19ad.chunk.js.map": "/tquad/static/js/787.a95b19ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25be99b7.css",
+    "static/js/main.ee44a30c.js"
+  ]
+}
